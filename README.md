@@ -1,4 +1,4 @@
-# EX-8 Deep Neural Network for Malaria Infected Cell Recognition
+# EX-4 Deep Neural Network for Malaria Infected Cell Recognition
 
 ## AIM:
 
@@ -36,8 +36,8 @@ Evaluate the model with the testing data using probability prediction(uninfected
 Fit the model and predict the sample input.
 
 ## PROGRAM:
-NAME : BHUVANESHWAR V
-REG N0 :212221240009
+NAME : RAGUL VK
+REG N0 :212221240043
 ```python
 import os
 import pandas as pd
